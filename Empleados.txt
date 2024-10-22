@@ -1,0 +1,24 @@
+Cedula: 71228301
+Nombre: pedro
+Apellido: perez
+Direccion: calle
+edad: 22
+Sexo: M
+Correo: pedroperez@hotmail.com
+------------------------------------------------------ 
+Cedula: 71228300
+Nombre: Dennis
+Apellido: perez
+Direccion: calle
+edad: 43
+Sexo: M
+Correo: pedroperez@hotmail.com
+------------------------------------------------------ 
+Cedula: 1020405060
+Nombre: clase
+Apellido: esrtucturas
+Direccion: fraternidad
+edad: 105
+Sexo: F
+Correo: frateritm@correo.itm.edu.co
+------------------------------------------------------ 
